@@ -28,9 +28,9 @@
 
 ### Requirements
 Make sure the following scripts are installed and functional:
-- [**vorp_core**](https://github.com/VORPCORE/vorp-core)
-- [**vorp_inventory**](https://github.com/VORPCORE/vorp-inventory)
-- [**vorp_utils**](https://github.com/VORPCORE/vorp-utils)
+- [**vorp_core**](https://github.com/VORPCORE/vorp_core-lua)
+- [**vorp_inventory**](https://github.com/VORPCORE/vorp_inventory-lua)
+- [**vorp_utils**](https://github.com/VORPCORE/vorp_utils)
 
 ### Steps
 1. **Download**  
