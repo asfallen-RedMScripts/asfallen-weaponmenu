@@ -8,12 +8,14 @@ version '1.0.0'
 
 
 
-server_script 'asfallen-weaponmenu-server.lua'
+server_script 'server.lua'
 
-client_script 'asfallen-weaponmenu-client.lua'
+client_scripts {
+ 'client.lua',
+}
 
-dependencies {
-    'vorp_core',
+
+dependencies {    'vorp_core',
     'vorp_inventory',
     'vorp_utils'
 }
